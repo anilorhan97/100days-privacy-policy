@@ -83,9 +83,7 @@ This app is designed for general audiences.
 📩 7. Contact
 
 For privacy inquiries, you may contact the developer:
-📧 gamehelpcenter@gmail.com
-
-(You can change this email if needed.)
+📧 anilorhan97@gmail.com
 
 🔄 8. Policy Updates
 
